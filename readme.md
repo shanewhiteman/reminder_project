@@ -4,5 +4,5 @@ Create a program that can give you a reminder after you give it:
 2. Date and time
 3. alarm mod
 
-using the linux clock system
+using the linux clock system and arg usage
 (and in future windows clock sys)
