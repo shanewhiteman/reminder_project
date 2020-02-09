@@ -7,3 +7,5 @@
 - add mod
 - go off at designated time
 - run linux alarm program or run program
+
+Optional(add a arg parser?)
